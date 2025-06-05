@@ -28,3 +28,6 @@ dist/*
 *.sql
 *.sqlite
 .idea
+
+composer.json
+package-lock.json
